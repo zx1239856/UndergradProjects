@@ -1,0 +1,6 @@
+./build/CacheSim -i inputs/wangzherongyao60fps_b620_1.txt > outputs/wzry_1.txt
+./build/CacheSim -i inputs/wangzherongyao60fps_b620_2.txt > outputs/wzry_2.txt
+./build/CacheSim -i inputs/hepingjingying60fps_b620_1.txt > outputs/hpjy_1.txt
+./build/CacheSim -i inputs/hepingjingying60fps_b620_2.txt > outputs/hpjy_2.txt
+./build/CacheSim -i inputs/fortnite60fps_b620_1.txt > outputs/fort_1.txt
+./build/CacheSim -i inputs/fortnite60fps_b620_2.txt > outputs/fort_2.txt

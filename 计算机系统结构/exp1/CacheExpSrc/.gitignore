@@ -1,0 +1,5 @@
+.idea/*
+inputs
+cmake-build-debug/*
+outputs
+build
